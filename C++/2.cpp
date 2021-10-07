@@ -1,4 +1,4 @@
-#include <iostream>
+https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif#include <iostream>
 using namespace std;
 
 int main()
