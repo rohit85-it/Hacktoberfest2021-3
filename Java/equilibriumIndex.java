@@ -1,4 +1,4 @@
-class GFG{
+class Main{
   
 static int equilibrium(int a[], int n)
 { 
