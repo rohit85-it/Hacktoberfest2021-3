@@ -28,3 +28,4 @@
 | Garima Mahajan       | [@GarimaMahajan20](https://github.com/GarimaMahajan20)       | 1                |
 | Nguyen Khoa          | [@ntvkhoasgt](https://github.com/ntvkhoasgt)                 | 1                |
 | Ashnil               | [@ashnike](https://github.com/ashnike)                       | 1                |
+| Tharaka Dhanushka    | [@tharakadhanushka](https://github.com/Tharakadhanushka)     | 1                |
