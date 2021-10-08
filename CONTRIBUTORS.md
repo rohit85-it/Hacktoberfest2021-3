@@ -30,3 +30,5 @@
 | Ashnil               | [@ashnike](https://github.com/ashnike)                       | 1                |
 | Tharaka Dhanushka    | [@tharakadhanushka](https://github.com/Tharakadhanushka)     | 1                |
 | Kuwar Kapur          | [@kuwarkapur](https://github.com/kuwarkapur)                 | 1                |
+| Gayangi              | [@gayangitharaka](https://github.com/Gayangitharaka)         | 1                |
+
