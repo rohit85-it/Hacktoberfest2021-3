@@ -31,4 +31,4 @@
 | Tharaka Dhanushka    | [@tharakadhanushka](https://github.com/Tharakadhanushka)     | 1                |
 | Kuwar Kapur          | [@kuwarkapur](https://github.com/kuwarkapur)                 | 1                |
 | Gayangi              | [@gayangitharaka](https://github.com/Gayangitharaka)         | 1                |
-
+| Rohit Jindamwar      | [@rohit85-it](https://github.com/rohit85-it)                 | 1                |
